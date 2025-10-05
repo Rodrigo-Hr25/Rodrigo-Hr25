@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,nextjs,python,c,cpp,c-sharp,latex,linux,docker,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,nextjs,python,c,cpp,cs,latex,linux,docker,bash,vscode" />
   <img src="https://skillicons.dev/icons?i=html,css,js,git,postman,figma" />
 </p>
 
