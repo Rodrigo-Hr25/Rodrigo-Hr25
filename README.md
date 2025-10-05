@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,nextjs,python,c,cpp,asm" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,nextjs,python,c,cpp,mips" />
 </p>
 
 <p align="center">
