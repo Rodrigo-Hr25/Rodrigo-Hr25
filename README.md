@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,nextjs,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,nextjs,python,c,cpp,asm" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,latex,linux,docker,html,css,ts" />
+  <img src="https://skillicons.dev/icons?i=cs,latex,linux,docker,html,css,ts,flask" />
 </p>
 
 
