@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,latex,linux,docker,html,css" />
+  <img src="https://skillicons.dev/icons?i=cs,latex,linux,docker,html,css,ts" />
 </p>
 
 
