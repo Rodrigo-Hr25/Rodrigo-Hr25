@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I am currently pursuing a Master’s degree in **[Information Security and Cyberspace Law]([https://blog.bytebytego.com/p/free-system-design-pdf-158-pages](https://tecnico.ulisboa.pt/en/education/courses/masters-programmes/information-security-and-cyberspace-law/))**
+- 🌱 I am currently pursuing a Master’s degree in **[Information Security and Cyberspace Law]((https://tecnico.ulisboa.pt/en/education/courses/masters-programmes/information-security-and-cyberspace-law/))**
 
 <br>
 
