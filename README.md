@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 </div>
 
 <hr>
-
 ## 🛠️ Languages and Tools
 
 <p align="center">
@@ -40,7 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,latex,linux,docker,html,css,ts,postman" />
+  <img src="https://skillicons.dev/icons?i=cs,latex,linux,docker,html,css,ts,postman,visualstudio" />
 </p>
 
 
