@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ## ⚡️ Stats
 
 <br>
-![tryhackme stats](https://raw.githubusercontent.com/<Rodrigo-Hr25>/<Rodrigo-Hr25>/master/assets/thm_propic.png)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2255750" style='border:none;'></iframe>
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Hr25&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Rodrigo's GitHub Stats" />
