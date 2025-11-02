@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ## ⚡️ Stats
 
 <br>
-
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Hr25&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Rodrigo's GitHub Stats" />
   <!-- <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrigo-Hr25&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Rodrigo's" /> -->
